@@ -62,9 +62,16 @@ donut-o2.1
 
 Parameters: 27B+
 
-Subtypes: o2.1-gaming, o2.5-coding
+Subtypes: o2.1-gaming, o2.1-school
 
 Advanced versions specialized in gaming inference and code generation
+
+
+donut-o2.5
+
+Parameters: 40b
+
+Subtypes: o2.5-coding 70b
 
 
 donut-o3-mini
